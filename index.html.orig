@@ -379,10 +379,11 @@
         <div id="registro" class="pantalla visible">
             <div class="logo">
                 <i class="fas fa-volleyball-ball ball-bounce"></i>
-                <h1>reserva de voly</h1>
 <<<<<<< HEAD
+                <h1>reserva de voly</h1>
             
 =======
+                <h1>holis soy la rama jennifer</h1>
 >>>>>>> jennifer
             </div>
             
