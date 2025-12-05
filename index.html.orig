@@ -379,8 +379,11 @@
         <div id="registro" class="pantalla visible">
             <div class="logo">
                 <i class="fas fa-volleyball-ball ball-bounce"></i>
+<<<<<<< HEAD
+                <h1>holis desde la rama main </h1>
+=======
                 <h1>reserva de voly</h1>
-            
+>>>>>>> jennifer
             </div>
             
             <h2><i class="fas fa-user-plus sports-icon"></i> Crear Cuenta</h2>
